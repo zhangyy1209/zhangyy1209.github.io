@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  padding-bottom: 5px;
+  padding-top: 45px;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+p {
+  font-size: 15px;
+}
+
+li {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
