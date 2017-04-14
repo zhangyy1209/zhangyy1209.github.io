@@ -54,7 +54,7 @@ html, body {
 /*-- header --*/
 header {
 	padding:20px 0;
-	background: #F4C1B0; /* Header background color */
+	background: #FFDAB9; /* Header background color */
 }
 .logo {
     float: left;
@@ -69,7 +69,7 @@ header {
 }
 .logo h1 span {
     padding: 8px 5px;
-    background: #F4C1B0; /* Logo background color */
+    background: #FFDAB9; /* Logo background color */
 }
 .logo-img {
     position: absolute;
@@ -180,7 +180,7 @@ ul.nav.navbar-nav li a:hover {
 
 /*-- /header --*/
 .w3ls_banner_section {
-    background: url(../images/IMG_2710.jpg) no-repeat 0px 0px;
+    background: url(../images/D70I0465.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -191,7 +191,7 @@ ul.nav.navbar-nav li a:hover {
     text-align: center;
 }
 .w3ls_banner_section.second {
-    background: url(../images/IMG_27102.jpg) no-repeat 0px 0px;
+    background: url(../images/D70I0796.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -504,7 +504,7 @@ ul.nav.navbar-nav li a:hover {
   background: #1a4a72;
 }
 .ih-item.circle.effect10 .info {
-       background: #F4C1B0;
+       background: #FFDAB9;
     opacity: 0;
     -webkit-transform: scale(0);
     -moz-transform: scale(0);
@@ -666,9 +666,9 @@ h3.h-t {
 /*-- //about --*/
 /*-- /counter-agile --*/
 .agileinfo_counter_section {
-    background: url(../images/IMG_3466.jpg)no-repeat 0px 0px; /* counter picture */
+    background: url(../images/D70I0098.jpg)no-repeat 0px 0px; /* counter picture */
     opacity: 0.8;
-    background-color: F4C1B0;
+    background-color: #FFDAB9;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1186,7 +1186,6 @@ figure.effect-winston figcaption::before {
 	left: 10px;
 	width: 100%;
 	height: 100%;
-	background: url(../images/triangle.svg) no-repeat center center;
 	background-size: 100% 100%;
 	content: '';
 	-webkit-transition: opacity 0.45s, -webkit-transform 0.45s;
@@ -1772,7 +1771,7 @@ p.wthree_agileits {
 .agile-footer {
     padding: 5em 0;
     text-align: center;
-    background: #F4C1B0;  /* footer background color */
+    background: #FFDAB9;  /* footer background color */
 }
 .agile-footer h1{
     color: #ffffff;
